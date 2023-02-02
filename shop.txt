@@ -7,3 +7,7 @@ hahahahaha.islibai!
 dev上修改的！
 master修改的
 dev上修改的！!
+<<<<<<< HEAD
+=======
+dev正在编辑！
+>>>>>>> dev
