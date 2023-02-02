@@ -4,5 +4,10 @@ hahahahaha.islibai!
 333
 444
 555
+<<<<<<< HEAD
 dev上修改的！
 master修改的
+=======
+dev上修改的！!
+
+>>>>>>> dev
